@@ -16,11 +16,11 @@ function IndexPage() {
 
 
 
-        <button class="text-5xl bg-transparent hover:bg-purple-700 text-purple-700 font-semibold hover:text-white py-2 px-4 hover:border-transparent rounded"><a href="/quarter1">Intro Unit</a>
+        <button class="text-5xl bg-transparent hover:bg-blue-700 text-blue-700 font-semibold hover:text-white py-2 px-4 hover:border-transparent rounded"><a href="/introunit">Intro Unit</a>
 
         </button>
 
-        <button class="text-5xl bg-transparent hover:bg-purple-700 text-purple-700 font-semibold hover:text-white py-2 px-4 hover:border-transparent rounded"><a href="/quarter1">Unit 1</a>
+        <button class="text-5xl bg-transparent hover:bg-blue-700 text-blue-700 font-semibold hover:text-white py-2 px-4 hover:border-transparent rounded"><a href="/unit1">Unit 1</a>
 
         </button>
 

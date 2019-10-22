@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `EHS Chemistry`,
-    description: `Englewood high School chemistry`,
+    description: `Englewood High School Chemistry`,
     author: `@tylermorrison`
   },
   plugins: [
@@ -15,8 +15,10 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#4dc0b5`,
         display: `minimal-ui`,
-        icon: `src/images/tailwind-icon.png`
+        icon: `src/images/pirateIcon.png`
       }
+
+
     },
     `gatsby-plugin-postcss`,
     {
@@ -27,5 +29,8 @@ module.exports = {
       }
     },
     `gatsby-plugin-offline`
+
+
+
   ]
 };
